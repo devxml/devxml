@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hey,%20I'm%20Dev%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hey,%20I'm%20Dev%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlign=47&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%2B+FastAPI+%2B+LangGraph;Building+AI-Powered+Web+Apps;Coffee+%2B+Code+%3D+Happiness+%E2%98%95)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@ const dev = {
   email       : "devverma2031@gmail.com",
   currentWork : "AI-integrated web applications",
   learning    : "Backend systems, AI pipelines, DSA",
-  lookingFor  : "Full Stack Developer roles (Noida / Remote)",
+  lookingFor  : "Full Stack Developer roles",
   funFact     : "Coffee + Code = Happiness ☕",
 };
 ```
@@ -62,7 +62,6 @@ const dev = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -72,7 +71,6 @@ const dev = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ---
@@ -92,16 +90,12 @@ const dev = {
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
 ### 🧪 Testing & API Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -114,53 +108,29 @@ const dev = {
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devxml&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxml&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=devxml&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jaycodebyte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jaycodebyte&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jaycodebyte&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycodebyte&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=devxml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-</div>
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jaycodebyte&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=devxml&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-### ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </div>
-
-
