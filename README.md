@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-verma-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devxml)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devverma2031@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxml)
 ![Visitor Count](https://komarev.com/ghpvc/?username=devxml&label=Profile+Views&color=6C63FF&style=for-the-badge)
@@ -109,7 +109,7 @@ const dev = {
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="[https://profile-readme-generator.com/assets/snake.svg](https://raw.githubusercontent.com/devxml/devxml/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 </div>
 
 ## 🏆 GitHub Trophies
